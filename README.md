@@ -20,8 +20,9 @@ Inspired by the concept of "six degrees of separation," this project analyzes th
 
 ## Project Structure
 
-- `src/`: Contains the C++ source code for graph construction and Dijkstra's algorithm.
-- `data/`: Includes sample data collected from the class.
+- `src.cpp`: Contains the C++ source code for graph construction and Dijkstra's algorithm.
+- `Social_Network_Analysis_Responses.csv`: Includes sample data collected from the class.
+- `include`: Includes necessary csv-parsed library.
 
 ## Acknowledgments
 Special thanks to Prof. Zobia Rehman for her invaluable guidance throughout this project.
